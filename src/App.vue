@@ -1,5 +1,5 @@
 <template>
-  Vue
+  Vue 3
 </template>
 
 <script>
